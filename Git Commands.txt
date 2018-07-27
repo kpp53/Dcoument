@@ -1,0 +1,42 @@
+Where is git --> To Find Where is git installed
+
+git init --> intialize the repositrory
+
+git add . --> all changes will add to Local repository
+
+git commit -m "<msg>" --> commit the new changes To Local Repository
+
+git remote add origin <repourl> --> it will add local to remote 
+
+git push origin -->  Push To Git From Local repository
+
+git clone <REPO_URL> --> checkout from git
+
+git pull <REPOS_URL> --> update 
+
+git stash --> Sync your Local Repository With Remote Repository
+
+================================================================
+
+Add New Project Into Git
+
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
+Checkout the New Branch:
+
+
+1) git clone https://github.com/kpp53/XSSTest.git
+
+2) cd Change project name
+
+3) git checkout <BranchName>
+
+
+
+
+
+
+
+
+
